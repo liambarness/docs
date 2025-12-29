@@ -12,20 +12,16 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
+          "anchor": "Website",
           "icon": "book-open-cover",
-          "href": "https://mintlify.com/docs"
-        },
-        {
-          "anchor": "Blog",
-          "icon": "newspaper",
-          "href": "https://mintlify.com/blog"
+          "href": "https://beachbrewusa.com"
         }
       ]
     },
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Handbook",
+        "icon": "book",
         "groups": [
           {
             "group": "Getting started",
